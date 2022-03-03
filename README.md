@@ -9,6 +9,8 @@ This project is part of KTH's DH2642 - Interaction Programming and the Dynamic W
 
 For access to view the private code, please submit a request.
 
+--------------------------------
+
 ### Index View:
 ![Index View](https://github.com/Ladydiana/DinnerPlanner-Public/blob/master/Img%201%20-%20Index%20View.PNG)
 
