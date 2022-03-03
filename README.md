@@ -8,11 +8,11 @@ Screenshots below. CSS file in the public folder. Javascript, React and Firebase
 
 For access to view the private code, please submit a request.
 
-Index View:
+**Index View:**
 ![Index View](https://github.com/Ladydiana/DinnerPlanner-Public/blob/master/Img%201%20-%20Index%20View.PNG)
 
-Hover:
+**Hover:**
 ![Hover](https://github.com/Ladydiana/DinnerPlanner-Public/blob/master/Img%202%20-%20Hover.png)
 
-Details View:
+**Details View:**
 ![Details View](https://github.com/Ladydiana/DinnerPlanner-Public/blob/master/Img%203%20-%20Details%20View.PNG)
